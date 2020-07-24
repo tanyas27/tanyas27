@@ -9,6 +9,9 @@
 - 👯 I’m looking to collaborate on new cool projects.
 - 💬 Ask me about JS, DS, Memes, Techs ? 
 - 📫 Reach me: tanyacs27@gmail.com
-- ⚡ Fun fact: ...
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: It would only take one hour to drive to space.
 
+<!--
 ![Tanya Singh github stats](https://github-readme-stats.vercel.app/api?username=tanyasingh27&show_icons=true)
+-->
