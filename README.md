@@ -6,9 +6,8 @@
 
 - 🔭 I’m currently working on React.JS.
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 👯 I’m looking to collaborate on new cool projects.
+- 💬 Ask me about JS, DS, Memes, Techs ? 
 - 📫 Reach me: tanyacs27@gmail.com
 - ⚡ Fun fact: ...
 
