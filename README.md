@@ -12,4 +12,4 @@
 - 📫 Reach me: tanyacs27@gmail.com
 - ⚡ Fun fact: ...
 
-![Tanya Singh github stats](https://github-readme-stats.vercel.app/api?username=tanyasingh27&show_icons=true&theme=tokyonight)
+![Tanya Singh github stats](https://github-readme-stats.vercel.app/api?username=tanyasingh27&show_icons=true)
