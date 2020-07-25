@@ -5,15 +5,15 @@
 -->
 #### 📫 Reach me:
 <div>
-<a href="https://www.linkedin.com/in/tanyasingh27"><img src="/images/linkedin.png?raw=true"/></a>
-<a href="https://twitter.com/journeyofcoder"><img src="/images/twitter.png"/></a>
-<a href="https://medium.com/code-tad"><img src="/images/code-tad.png" width="32px" height="32px"/></a>
+<a href="https://www.linkedin.com/in/tanyasingh27"><img src="/images/linkedin.png" alt="linkedin" /></a>
+<a href="https://twitter.com/journeyofcoder"><img src="/images/twitter.png" alt="twitter" /></a>
+<a href="https://medium.com/code-tad"><img src="/images/code-tad.png" alt="blog" width="32px" height="32px" /></a>
 </div> 
 
 
 - 🔭 I’m currently working on React.JS.
 - 🌱 I’m currently learning Data Structures and Algorithms.
-- 👯 I’m looking to collaborate on new cool projects.
+- 👯 I’m looking to collaborate on cool projects.
 - 💬 Ask me about JavaScript, DS, Memes, Techs, Paintings ? - 
 - :speaking_head: Pronouns: She/Her
 - ⚡ Fun fact: It would only take one hour to drive :car: to space :milky_way:
