@@ -5,7 +5,7 @@
 -->
 #### Find me:
 <div>
-<a href="https://www.linkedin.com/in/tanyasingh27/"><img src="/images/linkedin.png"/></a>
+<a href="https://www.linkedin.com/in/tanyasingh27"><img src="/images/linkedin.png?raw=true"/></a>
 <a href="https://twitter.com/journeyofcoder"><img src="/images/twitter.png"/></a>
 <a href="https://medium.com/code-tad"><img src="/images/code-tad.png" width="32px" height="32px"/></a>
 </div> 
