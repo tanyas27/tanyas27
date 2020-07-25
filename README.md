@@ -7,7 +7,7 @@
 <div>
 <a href="https://www.linkedin.com/in/tanyasingh27"><img src="/images/linkedin.png" alt="linkedin" /></a>
 <a href="https://twitter.com/journeyofcoder"><img src="/images/twitter.png" alt="twitter" /></a>
-<a href="https://medium.com/code-tad"><img src="/images/code-tad.png" alt="blog" width="32px" height="32px" /></a>
+<a href="https://medium.com/code-tad"><img src="https://github.com/tanyasingh27/tanyasingh27/blob/master/images/code-tad.png" alt="blog" width="32px" height="32px" /></a>
 </div> 
 
 
