@@ -4,16 +4,17 @@
 **tanyasingh27/tanyasingh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 #### Find me on:
-
+<p>
 <a href="https://www.linkedin.com/in/tanyasingh27/">
-  <img src="images/linkedin.png" alt="Linkedin">
+  <img src="images/linkedin.png" alt="Linkedin"/>
 </a>
 <a href="https://twitter.com/journeyofcoder">
-  <img src="images/twitter.png" alt="twitter">
+  <img src="images/twitter.png" alt="twitter"/>
 </a>
 <a href="https://medium.com/code-tad">
-  <img src="images/code-tad.png" width="32px" height="32px" alt="blog">
+  <img src="images/code-tad.png" alt="blog" width="32px" height="32px"/>
 </a>
+</p>
 
 
 - 🔭 I’m currently working on React.JS.
