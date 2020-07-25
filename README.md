@@ -5,9 +5,9 @@
 -->
 #### Find me on:
 <div>
-<a href="https://www.linkedin.com/in/tanyasingh27/"><img src="./images/linkedin.png"/></a>
-<a href="https://twitter.com/journeyofcoder"><img src="./images/twitter.png"/></a>
-<a href="https://medium.com/code-tad"><img src="./images/code-tad.png" width="32px" height="32px"/></a>
+<a href="https://www.linkedin.com/in/tanyasingh27/"><img src="images/linkedin.png" alt="Linkedin"></a>
+<a href="https://twitter.com/journeyofcoder"><img src="images/twitter.png" alt="twitter"></a>
+<a href="https://medium.com/code-tad"><img src="images/code-tad.png" width="32px" height="32px" alt="blog"></a>
 </div>  
 
 - 🔭 I’m currently working on React.JS.
