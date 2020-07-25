@@ -3,7 +3,7 @@
 <!--
 **tanyasingh27/tanyasingh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-#### Contact me:
+#### Find me on:
 <div>
 <a href="https://www.linkedin.com/in/tanyasingh27/"><img src="/images/linkedin.png"/></a>
 <a href="https://twitter.com/journeyofcoder"><img src="/images/twitter.png"/></a>
@@ -21,4 +21,3 @@
 <!--
 ![Tanya Singh github stats](https://github-readme-stats.vercel.app/api?username=tanyasingh27&show_icons=true)
 -->
-px
