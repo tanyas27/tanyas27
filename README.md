@@ -4,9 +4,9 @@
 **tanyasingh27/tanyasingh27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 #### 📫 Find me on:
-<div>
+<div style="background-color: #aaa">
 <a href="https://www.linkedin.com/in/tanyasingh27"><img src="https://github.com/tanyasingh27/tanyasingh27/blob/master/images/linkedin.png" alt="linkedin" /></a>
-<a href="https://twitter.com/journeyofcoder"><img src="https://github.com/tanyasingh27/tanyasingh27/blob/master/images/twitter.png" alt="twitter" /></a>
+<a href="https://twitter.com/SinghCode"><img src="https://github.com/tanyasingh27/tanyasingh27/blob/master/images/twitter.png" alt="twitter" /></a>
 <a href="https://medium.com/code-tad"><img src="https://github.com/tanyasingh27/tanyasingh27/blob/master/images/code-tad.png" alt="blog" width="32px" height="32px" /></a>
 </div> 
 
