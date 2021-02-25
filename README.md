@@ -11,8 +11,7 @@
 </div> 
 
 
-- 🔭 I’m currently working on ReactJS and Java.
-- 🌱 I’m currently learning NodeJS.
+- 🔭 I’m currently working on ReactJS and Java.- 🌱 I’m currently learning NodeJS.
 - 👯 I’m looking to collaborate on cool projects.
 - 💬 Ask me about JavaScript, DS, Memes, Techs, Paintings ? - 
 - :speaking_head: Pronouns: She/Her
