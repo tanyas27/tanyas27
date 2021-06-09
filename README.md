@@ -29,10 +29,10 @@
 
 
 
-![Tanya Singh github stats](https://github-readme-stats.vercel.app/api?username=tanyas27&show_icons=true&theme=solarized-light)
+<!-- ![Tanya Singh github stats](https://github-readme-stats.vercel.app/api?username=tanyas27&show_icons=true&theme=solarized-light) -->
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyas27&layout=compact&theme=solarized-light" alt="tanyas27" />
-
+<br/>
 
 #### 📫 Find me on:
 <div>
