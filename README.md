@@ -1,4 +1,4 @@
-<img src="https://github.com/tanyas27/tanyas27/blob/master/images/banner.png" width="900" height="350"> 
+<img src="https://github.com/tanyas27/tanyas27/blob/master/images/profileBanner.png" width="900" height="350"> 
 
 <img src="https://github.com/tanyas27/tanyas27/blob/master/images/space.gif" width="100px" style="border-radius:50%"> 
 
