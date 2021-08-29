@@ -28,6 +28,6 @@
 <div>
 <a href="https://www.linkedin.com/in/tanyas27"><img src="https://github.com/tanyas27/tanyas27/blob/master/images/linkedin.png" alt="linkedin" /></a>
 &nbsp; &nbsp; <a href="https://twitter.com/SinghCode"><img src="https://github.com/tanyas27/tanyas27/blob/master/images/twitter.png" alt="twitter" /></a>
-&nbsp; &nbsp; <a href="https://medium.com/code-tad"><img src="https://github.com/tanyas27/tanyas27/blob/master/images/medium.png" alt="blog"/></a>
+&nbsp; &nbsp; <a href="http://tanyas27.medium.com"><img src="https://github.com/tanyas27/tanyas27/blob/master/images/medium.png" alt="blog"/></a>
 </div> 
 <!-- ![Tanya Singh github stats](https://github-readme-stats.vercel.app/api?username=tanyas27&show_icons=true&theme=solarized-light) -->
