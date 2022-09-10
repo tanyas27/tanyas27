@@ -1,6 +1,8 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tanyas27.visitor-badge&left_color=red&right_color=green) 
 
+## Greetings! I am Tanya.
+
 - 🔭 I’m currently working on ReactJS, JavaScript and TypeScript.
 - 👯 I’m looking to collaborate on cool projects.
 - 💬 Ask me about JavaScript, DS, Memes, Techs.
