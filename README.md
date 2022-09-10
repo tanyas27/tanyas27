@@ -1,11 +1,7 @@
-<img src="https://github.com/tanyas27/tanyas27/blob/master/images/banner.png" width="900" height="350"> 
 
-<img src="https://github.com/tanyas27/tanyas27/blob/master/images/space.gif" width="100px" style="border-radius:50%"> 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tanyas27.visitor-badge&left_color=red&right_color=green) 
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=tanyas27.tanyas27)
-
-- 🔭 I’m currently working on ReactJS and Java.
+- 🔭 I’m currently working on ReactJS, JavaScript and TypeScript.
 - 👯 I’m looking to collaborate on cool projects.
 - 💬 Ask me about JavaScript, DS, Memes, Techs.
 - :speaking_head: Pronouns: She/Her
