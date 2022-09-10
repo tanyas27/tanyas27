@@ -26,10 +26,10 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyas27&layout=compact&theme=solarized-light" alt="tanyas27" />
 
-#### 📫 Find me on:
+### 📫 Find me on:
 <div>
-<a href="https://www.linkedin.com/in/tanyas27"><img src="https://github.com/tanyas27/tanyas27/blob/master/images/linkedin.png" alt="linkedin" /></a>
-&nbsp; &nbsp; <a href="https://twitter.com/SinghCode"><img src="https://github.com/tanyas27/tanyas27/blob/master/images/twitter.png" alt="twitter" /></a>
-&nbsp; &nbsp; <a href="http://tanyas27.medium.com"><img src="https://github.com/tanyas27/tanyas27/blob/master/images/medium.png" alt="blog"/></a>
+<a href="https://www.linkedin.com/in/tanyas27"><img src="https://cdn3d.iconscout.com/3d/free/thumb/linkedin-2950130-2447889.png" alt="linkedin" height ="42px" /></a>
+&nbsp; &nbsp; <a href="https://twitter.com/SinghCode"><img src="https://cdn3d.iconscout.com/3d/free/thumb/twitter-5623050-4684813.png" alt="twitter" height ="42px" /></a>
+&nbsp; &nbsp; <a href="http://tanyas27.medium.com"><img src="https://cdn3d.iconscout.com/3d/premium/thumb/medium-5183457-4333185.png" alt="blog" height ="34px"/></a>
 </div> 
 <!-- ![Tanya Singh github stats](https://github-readme-stats.vercel.app/api?username=tanyas27&show_icons=true&theme=solarized-light) -->
