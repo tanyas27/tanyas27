@@ -7,16 +7,22 @@
 - :speaking_head: Pronouns: She/Her
 - ⚡ Fun fact: It would only take one hour to drive :car: to space :milky_way:
 
-### Languages and Tools
+### 🔨 Languages and Tools:
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
+<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
+<a href="https://www.w3schools.com/html/" target="_blank"> <img align="left" alt="Html" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/html/html.svg"> </a>
+<a href="https://www.w3schools.com/css/" target="_blank"> <img align="left" alt="CSS" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/css/css.svg"> </a>
+<a href="https://redux.js.org/" target="_blank"><img align="left" alt="Redux" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/redux/redux.svg"></a>
+<a href="https://sass-lang.com/" target="_blank"> <img align="left" alt="sass" height ="42px"  src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/sass/sass.svg"> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+<a href="https://mui.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/material-ui/material-ui.svg" alt="mui" height='42px'/> </a>
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/bootstrap/bootstrap.svg" alt="bootstrap" height='42px'/> </a>
+<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+<br>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyas27&layout=compact&theme=solarized-light" alt="tanyas27" />
 
