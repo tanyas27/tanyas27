@@ -1,5 +1,5 @@
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tanyas27.visitor-badge&left_color=red&right_color=green) 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=%40tanyas&label=Visitors%20&labelColor=%23fdb411&countColor=%23979e07&style=plastic&labelStyle=none)
 
 ## Greetings! I am Tanya.
 
